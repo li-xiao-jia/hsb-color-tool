@@ -3,7 +3,7 @@
 一个专为设计师、美术生和色彩爱好者开发的交互式 HSB（色相、饱和度、明度）色彩识别训练工具，帮助用户直观理解色彩构成、提升调色能力和色彩感知力。
 
 ![HSB色彩识别工具](https://img.shields.io/badge/版本-1.0-blue)
-![版权](https://img.shields.io/badge/版权-©2025-励小加-red)
+![License](https://img.shields.io/badge/版权-©2025%20励小加-red)
 
 ## ✨ 功能特色
 
